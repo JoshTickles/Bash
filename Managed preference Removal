@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Managed preferance removal script for computer and all users.
+# Managed preferance removal script for computer and all users. Utilizes jamf binary. 
 # 
 # Josh - 2015
 #
